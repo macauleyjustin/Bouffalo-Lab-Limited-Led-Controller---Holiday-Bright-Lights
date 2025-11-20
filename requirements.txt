@@ -1,0 +1,23 @@
+Core networking libraries
+
+requests>=2.31.0    # For fetching weather data (Open-Meteo API)
+
+Note: The following are standard Python libraries usually included
+
+with Python installations, but listed for reference.
+
+You do NOT need to pip install these if you have Python 3.x
+
+socket
+
+time
+
+sys
+
+threading
+
+colorsys
+
+os
+
+datetime
